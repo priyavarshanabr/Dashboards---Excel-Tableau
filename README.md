@@ -1,5 +1,14 @@
 # Dashboards-Excel, SQL, Python & Tableau
 
+• Facebook Ads Insights - HealthyMe a fitness product company have introduced facebook ads which includes multiple campaigns and ad sets and built survey analysis from consecutive 50 days digital marketing expenditure on Facebook Ads. Analysis includes daily and weekly installs,revenue and payback across age groups,bmi,target groups from various users in both android and IOS platform.
+
+    - Pivot tables
+    - VLOOKUP
+    - Conditional Formatting
+    - Index and Match 
+    - if and sumif conditions
+    - Charts and slicers
+    
 • Sales Dashboard - A simple excel dashboard which contains sales data categorized by brands with their industries along with sales rep for each sales across years. This includes,
 
     - Pivot Tables
